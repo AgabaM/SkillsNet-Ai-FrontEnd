@@ -16,7 +16,7 @@ export const testimonials = [
   {
     quote:
       "SkillsNet has completely transformed the way we collaborate. The AI chatbot's ability to automate tasks and provide insightful recommendations has saved us hours each week. It's now an indispensable part of our workflow.",
-    name: "AXin Beneder",
+    name: "AXin Bender",
     title: "Operations Manager",
     image: Gaffy,
   },
