@@ -23,7 +23,7 @@ export const testimonials = [
   {
     quote:
       "SkillsNet integrates effortlessly with our existing tools, and the AI chatbot feels like a natural extension of our team. The responses are impressively accurate, and it's always learning from our interactions.",
-    name: "Ghost Coder",
+    name: "Mosh Labs (Ghost Coder)",
     title: "Lead Developer",
     image: Ghost,
   },
