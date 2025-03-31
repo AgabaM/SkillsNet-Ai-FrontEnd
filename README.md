@@ -1,6 +1,6 @@
 # SkillsNet AI Saas Project
 
-This is a starter template for the AI SaaS Landing Page video created by Frontend Tribe.
+This is a starter template for the AI SaaS Landing Page video created by Mosh Labs.
 
 ## Getting Started
 
