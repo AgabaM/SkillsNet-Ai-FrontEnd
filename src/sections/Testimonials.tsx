@@ -30,7 +30,7 @@ export const testimonials = [
   {
     quote:
       "SkillsNet's AI has elevated our customer service to a whole new level. Its real-time responses and personalized recommendations help us address client needs faster than ever. I can't imagine our support team without it.",
-    name: "Hacker Xyz",
+    name: "Zipped Hacker",
     title: "Customer Success Manager",
     image: Hacker,
   },
