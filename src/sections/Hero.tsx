@@ -101,7 +101,7 @@ const Hero = () => {
                         <h1 className="text-4xl md:text-5xl lg:text-6xl font-semibold text-gray-100 text-center leading-tight">
                             Unlock the future of AI Conversations with
                             <span className="relative">
-                                <span>SkillsNet</span>
+                                <span> SkillsNet</span>
                                 <span
                                     className="absolute w-full left-0 top-full -translate-y-1/2 h-4 bg-[linear-gradient(to_right,var(--color-amber-300),var(--color-teal-300),var(--color-violet-400),var(--color-fuchsia-400))]"
                                     style={{
